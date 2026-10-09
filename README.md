@@ -8,5 +8,7 @@ Hardware: Actuators, Arduino, Raspberry Pi, Circuit Design, Soldering
 
 ## Projects
 [Music Transposition Program](https://github.com/MaxMembrino/Transposition-program) - A program to transpose sheet music between keys from just a picture
+
 [Robotic Plant Caretaker](https://github.com/MaxMembrino/Raspberry-Pi-Plant-Caretaker) - A Raspberry Pi controlled Robot Arm to monitor and water multiple plants
+
 [Arduino Robot Arm](https://github.com/MaxMembrino/Arduino-Robot-Arm) - A master-slave Arduino powered robot arm that mimics motion from a small scale model

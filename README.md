@@ -12,3 +12,5 @@ Hardware: Actuators, Arduino, Raspberry Pi, Circuit Design, Soldering
 [Robotic Plant Caretaker](https://github.com/MaxMembrino/Raspberry-Pi-Plant-Caretaker) - A Raspberry Pi controlled Robot Arm to monitor and water multiple plants
 
 [Arduino Robot Arm](https://github.com/MaxMembrino/Arduino-Robot-Arm) - A master-slave Arduino powered robot arm that mimics motion from a small scale model
+
+Contact: https://mmembrino72@gmail.com

@@ -4,6 +4,7 @@ I'm a second year Computer Systems Engineering student at the University of Warw
 
 ## Skills
 Languages: Python, Java, C++
+
 Hardware: Actuators, Arduino, Raspberry Pi, Circuit Design, Soldering
 
 ## Projects
